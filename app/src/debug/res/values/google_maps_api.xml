@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=FA:74:30:45:7C:0C:47:B4:3D:A3:1D:07:7C:26:D0:F7:13:09:88:CA%3Bcom.novumlogic.mapmarkeranimation
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    FA:74:30:45:7C:0C:47:B4:3D:A3:1D:07:7C:26:D0:F7:13:09:88:CA
+
+    SHA-1 certificate fingerprint:
+    FA:74:30:45:7C:0C:47:B4:3D:A3:1D:07:7C:26:D0:F7:13:09:88:CA
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAlefBiL49a3BFC7wEveb5KS3umGfk5gHk</string>
+</resources>
